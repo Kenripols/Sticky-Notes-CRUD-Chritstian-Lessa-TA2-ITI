@@ -1,8 +1,42 @@
+
 .notestyle{
     display: inline-block;
-    padding: 10px;
+    line-break: normal;
     margin: 1em;
     border: 1px solid grey;
     box-shadow: 0px 0px 10px grey;
-    background-color: lightyellow;
+    background-color: #ffeeba;
+            border: 1px solid #ffeeba;
+            padding: 20px;
+            width: 250px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
 }
+.botonborrar {
+    background-color: #dc3545;
+            color: #fff;
+            border: none;
+            padding: 8px 12px;
+            cursor: pointer;
+            border-radius: 4px;
+            font-size: 14px;
+            margin-top: 10px;    
+
+}
+
+.botoneditar {
+    background-color: gray;
+            color: #fff;
+            border: none;
+            padding: 8px 12px;
+            cursor: pointer;
+            border-radius: 4px;
+            font-size: 14px;
+            margin-top: 10px;    
+
+}
+.titulocampo {
+    height: 200px;
+    background-color: #ffeeba;
+}
+
